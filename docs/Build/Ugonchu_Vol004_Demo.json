@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Ugonchu_Vol004_Demo.data.unityweb",
+"asmCodeUrl": "Ugonchu_Vol004_Demo.asm.code.unityweb",
+"asmMemoryUrl": "Ugonchu_Vol004_Demo.asm.memory.unityweb",
+"asmFrameworkUrl": "Ugonchu_Vol004_Demo.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
